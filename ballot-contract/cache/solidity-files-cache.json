@@ -1,0 +1,40 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "/Users/ashmitapandey/Desktop/Ballot-Dapp/ballot-contract/contracts/Ballot.sol": {
+      "lastModificationDate": 1738080234648,
+      "contentHash": "cee6f1972db1defefb2c0c45e28affcc",
+      "sourceName": "contracts/Ballot.sol",
+      "solcConfig": {
+        "version": "0.8.0",
+        "settings": {
+          "optimizer": {
+            "enabled": true,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.0"
+      ],
+      "artifacts": [
+        "Ballot"
+      ]
+    }
+  }
+}
