@@ -6,14 +6,6 @@ node_modules/
 
 # Build directories
 /build
-/genomic-rollup-app/build
-/genomic-rollup-contract/cache
-/genomic-rollup-contract/artifacts
-/genomic-rollup-contract/typechain
-/genomic-rollup-contract/typechain-types
-/genomic-rollup-contract/coverage
-/genomic-rollup-contract/coverage.json
-/genomic-rollup-contract/ignition/deployments/chain-31337
 
 # macOS specific files
 .DS_Store
